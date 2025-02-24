@@ -144,12 +144,12 @@ Follow these steps to set up the Smart Product Search application:
 
 1. Clone the repository:
 ```bash
-git clone Repository_Link
+git clone [Repository_Link](https://github.com/mayukhdeep12/Smart_product_search.git)
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd Repository_Folder
+cd Smart_product_search
 ```
 
 3. Install Ollama:
