@@ -12,7 +12,7 @@ An intelligent product search system with natural language processing capabiliti
 
 ## Tests
 1. **Task A: Basic Item Search + Price Constraint**  
-   - **Prompt** - Find a floral skirt under 4000 Rupees in size S. Is it in stock, and can I apply a discount code 'SAVE10'?
+   - **Prompt** - Find a floral skirt under 4000 Rupees in size S. Is it in stock, and can I apply a discount code 'SPRING15'?
   
 https://github.com/user-attachments/assets/3996b6eb-ea87-46cb-b12d-c1f8d68418e8
      
