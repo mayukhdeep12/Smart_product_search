@@ -144,7 +144,7 @@ Follow these steps to set up the Smart Product Search application:
 
 1. Clone the repository:
 ```bash
-git clone [Repository_Link](https://github.com/mayukhdeep12/Smart_product_search.git)
+git clone https://github.com/mayukhdeep12/Smart_product_search.git
 ```
 
 2. Navigate to the project directory:
